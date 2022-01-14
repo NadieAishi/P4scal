@@ -14,11 +14,11 @@ n1,n2,n3: Integer;
 BEGIN
 ClrScr();
 WRITE('Digite el primer numero:');
-READ(n1);
+        READ(n1);
 WRITE('Digite el segundo numero: ');
-READ(n2);
+        READ(n2);
 WRITE('Digite el tercer numero:');
-READ(n3);
+        READ(n3);
 
 IF (n1 > n2) AND (n1 > n3) THEN
 BEGIN
