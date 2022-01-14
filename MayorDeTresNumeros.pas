@@ -48,4 +48,4 @@ WRITELN('Los numeros son identicos.');
         WRITE('Press any key to continue...');
         ReadKey();
         END;
-END.
+                        END.
